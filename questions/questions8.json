@@ -1,0 +1,41 @@
+[{
+        "answer": "2001",
+        "question": "In which year, terrorists crash two planes into New York's World Trade Centre on September 11 in a sequence of destruction?",
+        "options": ["2001", "2000", "2002","2003"]
+    }, {
+        "answer": "1914",
+        "question": "In which year of First World War Germany declared war on Russia and France?",
+        "options": ["1914", "1915", "1916", "1917"]
+    }, {
+        "answer": "mica",
+        "question": "India has largest deposits of ____ in the world.",
+        "options": ["mica", "gold", "silver", "None of the above"]
+    }, {
+        "answer": "San Francisco",
+        "question": "In 1945, fifty nations met to phrase the basic charter for a world organization which would \"save succeeding generations from the scourge of war\". This conference took place at",
+        "options": ["San Francisco", "Yalta", "London", "Dumbarton Oaks"]
+    }, {
+        "answer": "2 million",
+        "question": "How many red blood cells does the bone marrow produce every second?",
+        "options": ["2 million", "3 million", "4 million", "5 million"]
+    }, {
+        "answer": "1984",
+        "question": "Indira Gandhi was assassinated in",
+        "options": ["1971", "1984", "1985", "1986"]
+    }, {
+        "answer": "1974",
+        "question": "India's first nuclear blast at Pokhran in Rajasthan took place in",
+        "options": ["1974", "1975", "1976", "1994"]
+    }, {
+        "answer": "About 12 hours",
+        "question": "In a normal human being, how much time does food take to reach the end of the intestine for complete absorption?",
+        "options": ["About 12 hours", "About 8 hours", "About 14 hours", "About 18 hours"]
+    }, {
+        "answer": "22 yards apart",
+        "question": "In cricket, the two sets of wickets are",
+        "options": ["22 yards apart", "24 yards apart", "20 yards apart",  "18 yards apart"]
+    }, {
+        "answer": "1982-83",
+        "question": "India's Integrated Missiles Development Programme was started in ____ under the chairmanship of Dr. A.P.J. Abdul Kalam",
+        "options": ["1982-83", "1981-82", "1980-81", "1979-80"]
+    }]

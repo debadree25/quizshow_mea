@@ -1,0 +1,41 @@
+[{
+        "answer": "largest railway station",
+        "question": "Grand Central Terminal, Park Avenue, New York is the world's : ",
+        "options": ["largest railway station", "highest railway station", "longest railway station", "None of the above"]
+    }, {
+        "answer": "Insects",
+        "question": "Entomology is the science that studies",
+        "options": ["Behavior of human beings", "Insects", "The origin and history of technical and scientific terms", "The formation of rocks"]
+    }, {
+        "answer": "All of the above",
+        "question": "For which of the following disciplines is Nobel Prize awarded?",
+        "options": ["Physics and Chemistry", "Physiology or Medicine", "Literature, Peace and Economics", "All of the above"]
+    }, {
+        "answer": "Nazi Party",
+        "question": "Hitler party which came into power in 1933 is known as",
+        "options": ["Labour Party", "Nazi Party", "Ku-Klux-Klan", "Democratic Party"]
+    }, {
+        "answer": "All of the above",
+        "question": "Galileo was an Italian astronomer who",
+        "options": ["All of the above", "developed the telescope", "discovered four satellites of Jupiter", "discovered that the movement of pendulum produces a regular time measurement"]
+    }, {
+        "answer": "the ultraviolet rays convert skin oil into Vitamin D",
+        "question": "Exposure to sunlight helps a person improve his health because",
+        "options": ["the ultraviolet rays convert skin oil into Vitamin D", "the infrared light kills bacteria in the body", "resistance power increases", "the pigment cells in the skin get stimulated and produce a healthy tan"]
+    }, {
+        "answer": "28 m x 15 m",
+        "question": "For the Olympics and World Tournaments, the dimensions of basketball court are",
+        "options": ["28 m x 15 m", "26 m x 14 m", "26 m x 15 m", "27 m x 16 m"]
+    }, {
+        "answer": "May 8",
+        "question": "Each year World Red Cross and Red Crescent Day is celebrated on",
+        "options": ["May 8", "May 18", "June 8", "June 18"]
+    }, {
+        "answer": "All the above",
+        "question": "Guru Gobind Singh was",
+        "options": ["All the above", "the 10th Guru of the Sikhs", "founder of Khalsa, the inner council of the Sikhs in 1699", "author of Dasam Granth"]
+    }, {
+        "answer": "1940",
+        "question": "During World War II, when did Germany attack France?",
+        "options": ["1940", "1941", "1942", "1943"]
+    }]

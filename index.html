@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html ng-app="QuizApp">
+    <head>
+        <title>MindSpark@MEA</title>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="css/styles.css"/>
+        <script src="js/angular.min.js"></script>
+        <script src="js/angular-route.min.js"></script>
+        <script src="js/app.js"></script>
+    </head>
+    <body ng-controller="MainController" ng-class="styleService.get()">
+        <header class="container">
+            <div class="row">
+                <h2 class="col-sm-8"><a href="#back">MindSpark@MEA</a></h2>
+                <nav class="col-sm-4 text-right">
+                    <ul>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </header> 
+        <div ng-view>
+        </div>
+    </body>
+</html>

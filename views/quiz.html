@@ -1,0 +1,30 @@
+<section class ="container">
+    <div class="row">
+        <h1 id="question" class="col-sm-12 text-center"><b>{{player.presentQ.question}}</b></h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-8 text-center" id="q_form">
+            <div>
+                <div class="radio">
+                    <label><input type="radio" value="{{player.presentQ.options[0]}}" ng-model="player.ans">{{player.presentQ.options[0]}}</label> 
+                </div>
+                <div class="radio">
+                    <label><input type="radio" value="{{player.presentQ.options[1]}}" ng-model="player.ans">{{player.presentQ.options[1]}}</label>  
+                </div>
+                <div class="radio">
+                    <label><input type="radio" value="{{player.presentQ.options[2]}}" ng-model="player.ans">{{player.presentQ.options[2]}}</label>
+                </div>
+                <div class="radio">
+                    <label><input type="radio" value="{{player.presentQ.options[3]}}" ng-model="player.ans">{{player.presentQ.options[3]}}</label>
+                </div>
+            </div>
+            <p class="btn btn-primary" ng-click="checkAns()">Submit</p>
+        </div>
+        <div class="col-sm-4 text-center" id="info">
+            <h1>The marks of this question</h1>
+            <h2>{{player.marks}}</h2>
+            <h1>Your score</h1>
+            <h2>{{player.score}}</h2>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,41 @@
+[{
+        "answer": "Ultraviolet radiation",
+        "question": "The ozone layer restricts",
+        "options": ["Ultraviolet radiation", "X-rays and gamma rays", "Infrared radiation", "None of the above"]
+    }, {
+        "answer": "altering human beings by changing their genetic components",
+        "question": "Eugenics is the study of",
+        "options": ["altering human beings by changing their genetic components", "people of European origin", "different races of mankind", "genetics of plants"]
+    }, {
+        "answer": "All of the above",
+        "question": "Euclid was",
+        "options": ["Greek mathematician", "Contributor to the use of deductive principles of logic as the basis of geometry", "Propounded the geometrical theorems", "All of the above"]
+    }, {
+        "answer": "Relation between organisms and their environment",
+        "question": "Ecology deals with",
+        "options": ["Relation between organisms and their environment", "Cell formation", "Birds", "Tissues"]
+    }, {
+        "answer": "Earth's gravitational pull",
+        "question": "Escape velocity of a rocket fired from the earth towards the moon is a velocity to get rid of the",
+        "options": ["Earth's gravitational pull", "Moon's gravitational pull", "Centripetal force due to the earth's rotation", "Pressure of the atmosphere"]
+    }, {
+        "answer": "Rameshwaram",
+        "question": "Coral reefs in India can be found in",
+        "options": ["Rameshwaram", "Waltair", "Trivandrum", "the coast of Orissa"]
+    }, {
+        "answer": "low melting point",
+        "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having",
+        "options": ["low melting point", "high resistance", "high melting point", "low specific heat"]
+    }, {
+        "answer": "New York, USA",
+        "question": "Headquarters of UNO are situated at",
+        "options": ["New York, USA", "Hague (Netherlands)", "Geneva", "Paris"]
+    }, {
+        "answer": "Zinc",
+        "question": "For galvanizing iron which of the following metals is used?",
+        "options": ["Zinc", "Lead", "Copper",  "Aluminium"]
+    }, {
+        "answer": "for coagulation of mud particles",
+        "question": "For purifying drinking water alum is used",
+        "options": ["for coagulation of mud particles", "to kill bacteria", "to remove salts", "to remove gases"]
+    }]

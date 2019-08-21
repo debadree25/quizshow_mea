@@ -1,0 +1,41 @@
+[{
+        "answer": "A tanner",
+        "question": "Name the Proffesion who converts raw hides into leather?",
+        "options": ["A rougher", "A separater", "A converter", "A tanner"]
+    }, {
+        "answer": "Carillon",
+        "question": "Name a word to describe the following-\"A set of bells placed together for a tune to be played on them\"?",
+        "options": ["Cariman", "Caritan", "Casetta", "Carillon"]
+    }, {
+        "answer": "2006",
+        "question": "In which year's World Cup did Zinedine Zindane headbutt Matterazzi?",
+        "options": ["2010", "2014", "2002", "2006"]
+    }, {
+        "answer": "Arsenal",
+        "question": "Which club went on an unbeaten run in the English Premier League for the whole session?",
+        "options": ["Manchester United", "Blackburn Rovers", "Leicester City", "Arsenal"]
+    }, {
+        "answer": "Just Fontaine",
+        "question": "Who has the record of scoring the maximum number of goals in a single World cup?\t",
+        "options": ["Ronaldinho", "Maradaona", "Miroslav Klose", "Just Fontaine"]
+    }, {
+        "answer": "New Yorkshire",
+        "question": "What was the initial name of Manchester United?",
+        "options": ["Manchester City", "New South Wales", "Arsenal", "New Yorkshire"]
+    }, {
+        "answer": "Raymond Carver",
+        "question": "\"I'm always learning something .Learning never ends.\" -- Who said these famous but few words?",
+        "options": ["Albert Einstein", " Issac newton", " c.v raman", "Raymond Carver"]
+    }, {
+        "answer": "1978",
+        "question": "When was the first test tube baby born?",
+        "options": ["1977", "1979", "1970", "1978"]
+    }, {
+        "answer": "Genetically Modified Organism",
+        "question": "What is the full form of GMO?",
+        "options": ["General Manager of Office", " Genetically Mutated Organism", " Genetically Mutated Organ", "Genetically Modified Organism"]
+    }, {
+        "answer": "Pancreas gland",
+        "question": "Which gland in the human body is a duct as well as a ductless gland?",
+        "options": ["pituitary gland", " Adrenal Gland", " Thyroid Gland", "Pancreas gland"]
+    }]

@@ -1,0 +1,41 @@
+[{
+        "answer": "John Napier",
+        "question": "Logarithm tables were invented by",
+        "options": ["John Napier", "John Doe", "John Harrison","John Douglas"]
+    }, {
+        "answer": "energy",
+        "question": "Joule is the unit of",
+        "options": ["energy", "temperature", "pressure", "None of these"]
+    }, {
+        "answer": "fourth in 400m final",
+        "question": "Milkha Singh Stood ____ in 1960 Olympics, in Athletics.",
+        "options": ["fourth in 400m final", "second in 400m final", "eighth in 50km walk", "None of the above"]
+    }, {
+        "answer": "Kerala",
+        "question": "Kathakali, Mohiniatam and Ottamthullal are the famous dances of",
+        "options": ["Kerala","Karnataka", "Orissa", "Tamil Nadu"]
+    }, {
+        "answer": "Sanskrit",
+        "question": "Modern Indo-Aryan languages are based on an ancient language called",
+        "options": ["Sanskrit", "Hindi", "Kannada", "Tamil"]
+    }, {
+        "answer": "Liver",
+        "question": "Malfunctioning of which of the following organs causes jaundice?",
+        "options": ["Liver", "Pancreas", "Stomach", "Kidney"]
+    }, {
+        "answer": "first woman IPS officer",
+        "question": "Kiran Bedi is",
+        "options": ["first woman IPS officer", "first woman advocate", "first woman IAS officer", "first woman judge"]
+    }, {
+        "answer": "1953",
+        "question": "Mount Everest was captured by Edmund Hillary and Tenzing Norgay in the year",
+        "options": ["1953", "1952", "1955", "1954"]
+    }, {
+        "answer": "4 years",
+        "question": "Normally the Commonwealth Games are held at intervals of",
+        "options": ["4 years", "5 years", "3 years",  "there is no fixed interval"]
+    }, {
+        "answer": "Hygrometer",
+        "question": "Name the instrument used to measure relative humidity",
+        "options": ["Hygrometer", "Hydrometer", "Barometer", "Mercury Thermometer"]
+    }]

@@ -1,0 +1,41 @@
+[{
+        "answer": "Australia",
+        "question": "Which team won the ICC Cricket World Cup 2015?",
+        "options": ["India", "West Indies", "England", "Australia"]
+    }, {
+        "answer": "18 days",
+        "question": "How many days did the battle of Kurukshetra last?",
+        "options": ["7 days", "17 days", "15 days", "18 days"]
+    }, {
+        "answer": "Germany",
+        "question": "Who won the 2014 Football World Cup?",
+        "options": ["Brazil", "Spain", "Argentina", "Germany"]
+    }, {
+        "answer": "North Atlantic Treaty Organization",
+        "question": "What is the full form of -\"NATO\"?",
+        "options": ["North Antarctic Treaty Organization", "North Asian Treaty Organization", "North Austrian Treaty Organization", "North Atlantic Treaty Organization"]
+    }, {
+        "answer": "Sulphuric acid",
+        "question": "What is oil of vitriol commonly known as?",
+        "options": ["Hydrochloric acid", "Oleum", "Formaldehyde", "Sulphuric acid"]
+    }, {
+        "answer": "Cheetah",
+        "question": "Which is the fastest creature on land?",
+        "options": ["Leopard", "Lion", "Panther", "Cheetah"]
+    }, {
+        "answer": "Nawab Wazid Ali Shah",
+        "question": "Which ruler introduced biriyani in India?",
+        "options": ["Akbar", "Qutubuddin Aibak", "Mohammad Bin Tuglak", "Nawab Wazid Ali Shah"]
+    }, {
+        "answer": "Gregor Mendel",
+        "question": "Who is the father of Genetics?",
+        "options": ["Robert Hooke", "Neil Bohr", "Anton von Leewenhoek", "Gregor Mendel"]
+    }, {
+        "answer": "4.6 billion years",
+        "question": "What is the age of the earth?",
+        "options": ["5 billion years", "6 billion years ", "1 billion years", "4.6 billion years"]
+    }, {
+        "answer": "James Van Allen",
+        "question": "Which scientist discovered Earth's Magnetic field?",
+        "options": ["C.V Raman", "Einstein", "Newton", "James Van Allen"]
+    }]

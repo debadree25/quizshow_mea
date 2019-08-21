@@ -1,0 +1,124 @@
+header {
+    h2 {
+        font-weight:700;
+    }
+    nav {
+        display: flex;
+        justify-content: flex-end;
+        margin-top:30px;
+        ul {
+            list-style: none;
+        }
+        li {
+            display: inline-block;
+        }
+    }
+}
+.home {
+     background-color: orange;
+    .jumbotron {
+        display: flex; 
+        align-items: center; 
+        height: 650px; 
+        background-image: url('/img/img.jpg');
+    }
+    .container {    
+        #start {
+            font-size: 18px; 
+            border-radius: 4px; 
+            padding: 16px 32px; 
+            box-shadow: 0px 6px 8px rgba(34,62,66,.25); 
+            margin-top:10px;
+            a {
+                color:white;
+            }
+        }
+    }
+}
+.signup {
+    .jumbotron {
+        background-image: url('/img/img6.jpg'); 
+        background-size:contain; 
+        background-repeat:no-repeat; 
+        background-color:black; 
+        background-position: center,center; 
+        height: 600px;
+    }
+    .container {
+        ul {
+            list-style: none;
+        }
+        li {
+            label {
+                font-size:20px;
+            }
+        }
+        #submit {
+            a {
+                color: white;
+            }
+            margin-top: 20px; 
+            font-size: 16px;
+        }
+    }
+}
+.welcome {
+    .jumbotron {
+        background-image: url('/img/img3.jpg');
+        background-size: cover;
+        background-position: center,center;
+        height:600px;
+    }
+    .container {
+        ul {
+            list-style: none;
+        }
+        li {
+            font-size: 16px;
+        }
+        #continue {
+            a {
+                color: white;
+            }
+        }
+    }
+}
+.quiz {
+    background-image: url('/img/img4.jpg');
+    background-size:cover;
+    color:white;
+    .container {
+        #question {
+            font-size:56px;
+        }
+        #q_form {
+            margin-top:125px;
+            .radio {
+                label {
+                    font-size:25px;
+                }
+            }
+        }
+        #info {
+            margin-top:100px;
+        }
+    }
+}
+.credits {
+    .jumbotron {
+        background-image:url('/img/img5.jpg'); 
+        background-size:cover; 
+        height:650px;
+    }
+    .container {
+        p {
+            font-size:28px;
+        }
+        ul {
+            list-style: none;
+        }
+        li {
+            font-size:16px;
+        }
+    }
+}

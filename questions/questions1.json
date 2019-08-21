@@ -1,0 +1,41 @@
+[{
+        "answer": "Sultan Kosen",
+        "question": "Who is the world's tallest man?",
+        "options": ["Great Khali", "Big Show", "Kane", "Sultan Kosen"]
+    }, {
+        "answer": "Asia",
+        "question": "Which is the largest continent in the world?",
+        "options": ["Europe", "Africa", "Antarctica", "Asia"]
+    }, {
+        "answer": "Pratyibaindhya",
+        "question": "Who is the son of Yudhistir and Draupadi",
+        "options": ["Shantik", "Abhimanyu", "Pratibimba", "Pratyibaindhya"]
+    }, {
+        "answer": "Jacques Kallis",
+        "question": "Which player has the most number of centuries after Sachin Tendulkar in Test Cricket?",
+        "options": ["Ricky Ponting", "Brian Lara", "Don Bradman", "Jacques Kallis"]
+    }, {
+        "answer": "Portia",
+        "question": "Who is Bassanio's wife in the play - \"The merchant of Venice\"?",
+        "options": ["Nerissa", "Jessica", "Juliet", "Portia"]
+    }, {
+        "answer": "29",
+        "question": "How many states are there in India?",
+        "options": ["28", "30", "27", "29"]
+    }, {
+        "answer": "Mohinder Amarnath",
+        "question": "Who received the man of the match award in 1983 World Cup final?",
+        "options": ["Kapil Dev", "Chetan Sharma", "Sunil Gavaskar", "Mohinder Amarnath"]
+    }, {
+        "answer": "5000 degree Celcius",
+        "question": "What is the temperature at the core of the earth?",
+        "options": ["3000 degree Celcius", "4000 degree Celcius", "4500 degree Celcius", "5000 degree Celcius"]
+    }, {
+        "answer": "Pituitary Gland",
+        "question": "Which is the master gland in the human body?",
+        "options": ["Pancreas", "Adrenal Gland", "Thyroid Gland", "Pituitary Gland"]
+    }, {
+        "answer": "1 millionth of a mm",
+        "question": "What is the size of an atom?",
+        "options": ["1 millionth of a cm", "1 billionth of a mm", "1 trillionth of a mm", "1 millionth of a mm"]
+    }]
